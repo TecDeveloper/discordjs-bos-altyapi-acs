@@ -10,7 +10,7 @@ ACS Boş discord.js altyapısı
 # Başlarken
 1. Glitch `Tools` kısmından import kullanın <br />
 veya <br />
-Terminal kısmına ```git clone https://github.com/TecDeveloper/discordjs-bos-altyapi-yuka``` <br />
+Terminal kısmına ```git clone https://github.com/TecDeveloper/discordjs-bos-altyapi-acs``` <br />
 2. Kodları kendinize göre düzenleyin
 
 **Not: Altyapının çoğu kod bilgisi gerektirir. Daha kolayları için ACS'yi ziyaret edebilirsiniz**
